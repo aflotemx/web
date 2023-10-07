@@ -1,7 +1,11 @@
 Descarga el proyecto.
-
 ```sh
 git clone git@github.com:aflotemx/web.git
+```
+
+Navega al directorio raiz del proyecto.
+```sh
+cd web
 ```
 
 Crea la imagen de docker.
