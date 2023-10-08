@@ -1,19 +1,5 @@
-Descarga el proyecto.
-```sh
-git clone git@github.com:aflotemx/web.git
-```
+CAPTAIN'S HOMEPAGE
 
-Navega al directorio raiz del proyecto.
-```sh
-cd web
-```
+Your remainders, calendar and progress tracking in one site.
 
-Crea la imagen de docker.
-```sh
-sudo docker build -t web .
-```
-
-Crea un contenedor usando la imagen creada.
-```sh
-sudo docker-compose up -d
-```
+No ads. No distractions. It's your goals and you.
