@@ -1,0 +1,10 @@
+---
+version: "3"
+services:
+  web:
+    image: web
+    container_name: web
+    hostname: web
+    ports:
+      - 3000:3000
+    restart: unless-stopped
